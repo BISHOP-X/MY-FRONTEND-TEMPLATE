@@ -265,3 +265,4 @@ export default defineConfig([
 
 
 DEADASS DIDN'T USE TS AT ALL
+HELP
